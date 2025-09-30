@@ -19,15 +19,14 @@ O layout é dividido em duas partes:
 
 O foco foi praticar:
 - Estruturação semântica de formulários em HTML;  
-- Estilização com CSS;  
-- Responsividade e usabilidade.  
+- Estilização com CSS;
 
 ---
 
 ## 🛠 Tecnologias utilizadas
 
 - **HTML5**  
-- **CSS3** (responsividade e estilização dos inputs e layout)  
+- **CSS3** (estilização dos inputs e layout)  
 
 ---
 
@@ -42,11 +41,11 @@ formulario-matricula/
 ```
 
 ```bash
-git clone https://github.com/SEU-USUARIO/formulario-matricula.git
+git clone https://github.com/pollyana-valverde/formulario-de-matricula.git
 ```
 
 ```bash
-cd formulario-matricula
+cd formulario-de-matricula
 ```
 
 ---
