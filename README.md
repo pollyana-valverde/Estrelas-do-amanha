@@ -9,13 +9,6 @@
 
 ---
 
-## 📸 Preview
-
-![preview do projeto](./assets/preview.png)  
-*(adicione aqui a captura da tela enviada como `assets/preview.png`)*
-
----
-
 ## 📄 Sobre o projeto
 
 O **Formulário de Matrícula - Estrelas do Amanhã** é uma página web fictícia que simula o processo de inscrição em uma escola de educação infantil.  
