@@ -27,4 +27,14 @@ button {
             outline: .25rem solid var(--surface-secondary);
         }
     }
-} 
+}
+
+@media (width < 80em) {
+    button {
+        text-align: center;
+
+        &.btn-secondary {
+            margin-left: unset;
+        }
+    }
+}
